@@ -1,0 +1,4 @@
+Package for importing IPython Notebooks as modules.  
+
+Code taken from MinRK's Gist.
+http://nbviewer.ipython.org/gist/minrk/6011986

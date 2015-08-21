@@ -7,7 +7,8 @@ http://nbviewer.ipython.org/gist/minrk/6011986
 
 import io, os, sys, types
 
-from IPython import nbformat
+#from IPython import nbformat
+import nbformat as nbformat
 from IPython.core.interactiveshell import InteractiveShell
 from IPython.display import display_html
 
